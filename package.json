@@ -1,6 +1,6 @@
 {
   "name": "jread",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A CLI simple tool to read stuff from json",
   "main": "index.js",
   "scripts": {
