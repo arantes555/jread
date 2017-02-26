@@ -1,0 +1,22 @@
+{
+  "name": "jread",
+  "version": "0.1.0",
+  "description": "A CLI simple tool to read stuff from json",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.spec.js && standard"
+  },
+  "author": "arantes",
+  "license": "MIT",
+  "dependencies": {
+    "fs-jetpack": "^0.12.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "standard": "^8.6.0"
+  },
+  "bin": {
+    "jread": "./index.js"
+  }
+}
