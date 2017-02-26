@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+'use strict'
 const jetpack = require('fs-jetpack')
 
 const readJson = (file, keys) => {
